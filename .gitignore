@@ -1,0 +1,13 @@
+# MIPS Simulator / MARS files
+*.hex
+*.mars
+*.dump
+.nfs*
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Temporary build artifacts
+*.o
+*.obj
